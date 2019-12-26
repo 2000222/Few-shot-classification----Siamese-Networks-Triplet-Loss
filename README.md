@@ -1,6 +1,6 @@
 # Few-shot-learning-with-Siamese-Networks-Triplet-Loss
-# #Try to train a Triplet-Siamese-Netwrok with the constrained Triplet Loss for few shot image classification.
-# # # More details in the folder siamese-triplet-master!
+## Try to train a Triplet-Siamese-Netwrok with the constrained Triplet Loss for few shot image classification.
+### More details in the folder siamese-triplet-master!
 
 Implemented in Pytorch .
 Currently I am trying to add a hierarchical meta learning frame to optimize the algorithm on MiniImageNet & Omniglot.
